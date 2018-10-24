@@ -10,3 +10,8 @@ end
 def using_pop(deleted_string)
   deleted_string.pop 
 end
+
+def pop_with_args(chars_in_game_of_thrones)
+   
+
+end
