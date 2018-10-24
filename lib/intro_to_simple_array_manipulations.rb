@@ -12,5 +12,5 @@ def using_pop(deleted_string)
 end
 
 def pop_with_args(chars_arya_killed)
-  chars_arya_killed(2)
+  chars_arya_killed = 
 end
