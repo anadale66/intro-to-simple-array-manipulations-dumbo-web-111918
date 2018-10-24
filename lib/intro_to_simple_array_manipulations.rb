@@ -12,6 +12,5 @@ def using_pop(deleted_string)
 end
 
 def pop_with_args(chars_in_game_of_thrones)
-   
-
+  chars_in_game_of_thrones(2)
 end
